@@ -1,0 +1,14 @@
+table{
+    background-color: beige;
+    margin: auto;
+    border-collapse: collapse;
+}
+td{
+    padding: 15px;
+    border: 4px solid gray;
+}
+.text{
+    color: red;
+    font-size: 30px;
+ 
+}
